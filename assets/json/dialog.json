@@ -6,8 +6,19 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "minerva", 
+			"dialog" : "screw you homer",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "jogoat", 
+			"dialog" : "stand proud, Homer, you were strong",
+			"newSpeaker" : "true"
+		}, 
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.", 
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
@@ -53,6 +64,11 @@
 		{	
 			"speaker" : "minerva",
 			"dialog" : "If, then, the gods now mean that Ulysses should get home, we should first send Mercury to the Ogygian island to tell Calypso that we have made up our minds and that he is to return.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "jogoat",
+			"dialog" : "I am the goat, homer and you shall burn for your mistakes",
 			"newSpeaker" : "true"
 		}
 	]
